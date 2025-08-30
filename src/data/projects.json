@@ -1,0 +1,17 @@
+
+[
+  {
+    "slug": "ecommerce-refresh",
+    "title": "E‑commerce Redesign",
+    "role": "UI/UX, Prototyping",
+    "year": "2025",
+    "cover": "/images/ecommerce-cover.jpg",
+    "summary": "Increased conversion by 22% through streamlined checkout.",
+    "tools": ["Figma", "Framer", "React"],
+    "sections": [
+      { "heading": "Problem", "body": "..." },
+      { "heading": "Process", "body": "..." },
+      { "heading": "Outcome", "body": "..." }
+    ]
+  }
+]
